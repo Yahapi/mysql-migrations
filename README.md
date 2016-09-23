@@ -1,4 +1,4 @@
-# yahapi-mysql-migratinos
+# yahapi-mysql-migrations
 
 Executes migration files for MySQL.
 
