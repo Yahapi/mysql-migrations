@@ -37,7 +37,7 @@ The signature `new Migrations(config)` accepts mysql connection options which ar
 
 # Run tests
 
-Start `docker-compose up` to start a MySQL server with correct table and user.
+Run `docker-compose up` to start a MySQL server with correct table and user.
 
 If you're not using docker-compose, make sure to have a running MySQL server on port 3306 with the following database setup:
 
